@@ -10,7 +10,7 @@ This repository contains the data and source for paper "Structure-to-Word Dynami
 We release some data and mode predictions about text summarization. We will release the whole data upon acceptance.
 
 
-### source data
+### Source Data
 
 - article: data/source/article.json
 - reference summary: data/source/reference_summary.json
